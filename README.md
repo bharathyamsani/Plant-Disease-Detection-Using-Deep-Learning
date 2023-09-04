@@ -14,7 +14,7 @@ interface. For Training, we are using the "Plant Village" dataset.
 * Each Image has its disease name so you can verify whether the model is working perfectly or not.
 
 
-## ⭐Snippet of Web App :
+## ⭐Snippet of Web Application :
 #### Main page
 <img src = "./demo_images/1.png" > <br>
 #### AI Engine 
