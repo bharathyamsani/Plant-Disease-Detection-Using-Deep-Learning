@@ -1,4 +1,4 @@
-# ⭐ Plant-Disease-Detection-Using-DeepLearning
+# ⭐ Plant-Disease-Detection-Using-Deep-Learning
 Crop diseases pose a significant threat to global food security, particularly in areas where 
 infrastructure is limited. To address this challenge, a platform for accurately identifying plant 
 diseases is needed. "Deep Learning Plant Disease Detection" is a platform that uses deep learning 
@@ -8,7 +8,7 @@ images accurately. Furthermore, the platform offers recommendations for preventi
 supplements for that disease and managing the spread of crop diseases using its user-friendly web 
 interface. For Training, we are using the "Plant Village" dataset.
 
-## ⭐Testing Images
+## ⭐Test Images
 
 * If you do not have leaf images then you can use test images located in test_images folder.
 * Each Image has its disease name so you can verify whether the model is working perfectly or not.
